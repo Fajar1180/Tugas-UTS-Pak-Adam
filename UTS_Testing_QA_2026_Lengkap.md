@@ -5,9 +5,9 @@
 **Sifat**: Online  
 **Waktu Pengerjaan**: 2 Minggu  
 
-**Nama**: ........................................  
-**NIM**: ........................................  
-**Kelas**: ........................................  
+**Nama**: Muhammad Fajar Nurjaman
+**NPM**: 20241320059
+**Kelas**: A2
 
 ---
 
@@ -319,6 +319,8 @@ Berdasarkan gap dan dampak layanan, menurut saya urutan prioritasnya:
 
 ### A.1 Screenshot
 ![Bukti Challenge #1](bukti_challenge1.png)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/abf6d363-3c12-4aff-9f85-a7c156bf145f" />
+
 
 ### A.2 Ringkasan yang saya lakukan
 Di Challenge #1, saya melakukan pengujian variasi input pada field First Name untuk memenuhi checklist yang ada di halaman, seperti:
@@ -336,6 +338,8 @@ Di Challenge #1, saya melakukan pengujian variasi input pada field First Name un
 
 ### B.1 Screenshot
 ![Bukti Challenge #2](bukti_challenge2.png)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d788ca7a-f9bd-42bb-9c46-4973dde68f70" />
+
 
 ### B.2 Ringkasan langkah bypass yang saya lakukan
 1. Saya membuka **DevTools** dengan menekan **F12**.  
